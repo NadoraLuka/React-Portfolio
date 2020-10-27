@@ -1,9 +1,9 @@
 .navApp {
-  background-color: orange;
+  background-color: black;
   color: white;
   font-size: 20px;
   padding: 20px;
-  border-bottom: 7px orange;
+  border-bottom: 7px black;
 }
 
 #name {
@@ -13,24 +13,24 @@
 .container {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: black (184, 174, 174);
+  background-color: gray;
 }
 
 .card-header {
-  border-top: 5px solid orange;
-  border-left: 5px solid orange;
-  border-right: 5px solid orange;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
 }
 
 .card-body {
-  border-left: 5px solid orange;
-  border-bottom: 5px solid orange;
-  border-right: 5px solid orange;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
 }
 
 .aboutApp,
 .portfolioApp,
 .contactApp,
 html {
-  background-color: orange;
+  background-color: grey;
 }

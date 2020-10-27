@@ -1,7 +1,6 @@
 import React from "react";
 import "../App.css";
 
-
 const portfolio = () => {
   return (
     <div className="portfolioApp">
@@ -128,7 +127,7 @@ const portfolio = () => {
               <p>
                 GitHub Profile:{" "}
                 <a href="https://github.com/NadoraLuka">
-                https://github.com/NadoraLuka
+                  https://github.com/NadoraLuka
                 </a>{" "}
               </p>
               <p>
