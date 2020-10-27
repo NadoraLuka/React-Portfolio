@@ -16,8 +16,6 @@
   background-color: black (184, 174, 174);
 }
 
-
-
 .card-header {
   border-top: 5px solid orange;
   border-left: 5px solid orange;
@@ -30,6 +28,9 @@
   border-right: 5px solid orange;
 }
 
-.aboutApp, .portfolioApp, .contactApp, html {
+.aboutApp,
+.portfolioApp,
+.contactApp,
+html {
   background-color: orange;
 }

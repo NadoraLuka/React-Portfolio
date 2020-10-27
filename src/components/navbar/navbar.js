@@ -1,6 +1,6 @@
 import React from "react";
 import "../../App.css";
-import "../aboutme/node_modules/bootstrap/dist/css/bootstrap.min.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from "react-router-dom";
 
 const mainPage = () => {

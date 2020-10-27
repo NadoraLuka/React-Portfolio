@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import "../components/aboutme/node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 
 const portfolio = () => {
   return (
@@ -110,7 +110,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href="https://whispering-bayou-29946.herokuapp.com/">
                   <img
-                    src="./img/Argonaut"
+                    src="./img/Argonaut.PNG"
                     className="card-img-top"
                     alt="img-one"
                   />
