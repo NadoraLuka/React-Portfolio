@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../components/aboutme/node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 const portfolio = () => {
   return (
@@ -17,7 +17,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href=" https://nadoraluka.github.io/WeatherApp/">
                   <img
-                    src="img/Weather1.PNG"
+                    src="./img/Weather1.PNG"
                     className="card-img-top"
                     alt="img-one"
                   />
@@ -55,7 +55,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href=" https://nadoraluka.github.io/CodeQuiz/">
                   <img
-                    src="img/Codequize3.PNG"
+                    src="./img/Codequize3.PNG"
                     className="card-img-top"
                     alt="img-one"
                   />
@@ -71,7 +71,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href="https://nadoraluka.github.io/Time-Well-Wasted/.">
                   <img
-                    src="img/Time1.PNG"
+                    src="./img/Time1.PNG"
                     className="card-img-top"
                     alt="img-one"
                   />
@@ -92,7 +92,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href=" https://nadoraluka.github.io/SecurityLock/">
                   <img
-                    src="assets/img/Lock1.PNG"
+                    src="./img/Lock1.PNG"
                     className="card-img-top"
                     alt="img-one"
                   />
@@ -110,7 +110,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href="https://whispering-bayou-29946.herokuapp.com/">
                   <img
-                    src="assets/img/"
+                    src="./img/Argonaut"
                     className="card-img-top"
                     alt="img-one"
                   />
@@ -127,8 +127,8 @@ const portfolio = () => {
             <div className="gitProfile">
               <p>
                 GitHub Profile:{" "}
-                <a href="https://github.com/Ana199816">
-                  https://github.com/Ana199816
+                <a href="https://github.com/NadoraLuka">
+                https://github.com/NadoraLuka
                 </a>{" "}
               </p>
               <p>
