@@ -137,7 +137,7 @@ const portfolio = () => {
                 </a>
               </p>
               <p>Email Address:naderaian2013@gmail.com</p>
-              <p>Phone Number:(865)-232-5740</p>
+              <p>Phone Number:(865)-232-0947</p>
               <a href="https://github.com/NadoraLuka/Portfolio/blob/master/resume/Nader%20Mashy%20Resume%202020.pdf">
                 {" "}
                 Resume
