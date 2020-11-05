@@ -138,7 +138,7 @@ const portfolio = () => {
               </p>
               <p>Email Address:naderaian2013@gmail.com</p>
               <p>Phone Number:(865)-232-0947</p>
-              <a href="https://github.com/NadoraLuka/Portfolio/blob/master/resume/Nader%20Mashy%20Resume%202020.pdf">
+              <a href="https://drive.google.com/file/d/1WGgMwYNe6dycJ3s4Za9_Kahc5XTkF4lg/view?usp=sharing">
                 {" "}
                 Resume
               </a>
